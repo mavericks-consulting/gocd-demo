@@ -1,0 +1,46 @@
+Accomplishments:
+R4:
+ - Completed POC for Inbox to native promotions page in 2 days time.
+ - Got a code walkthrough for Android and iOS.
+ - Got an understanding of the system architecture for PayLah!
+ - Started work on:
+	- "Inbox to native promotions page"
+	- "System Maintenance Page and Toast Message"
+ - Were involved in multiple discussions for clarifications required for the above mentioned functionalities.
+Capitaland:
+ - Attended meeting for Capitaland to finalize solution approach. Sent out a summary of the meeting.
+ - Agreed to do an inception for Capitaland.
+ - Sent out a detailed Agenda for the inception which was revised thrice.
+ - Got a functional understanding of the VivoCity project, since there are overlapping functionalities between VivoCity and Capitaland Integration.
+____________________________________________________________________________________________________________________________________________________________________
+
+Work in Progress:
+R4:
+ - Developing the following functionality using Mock responses.
+	- "Inbox to native promotions page"
+	- "System Maintenance Page and Toast Message"
+ - Chasing for clarifications on the external system integrations that need to happen for above mentioned functionalities.
+ - Trying to get clarity on the deployment process for the P2P server.
+Capitaland:
+ - Planning Inception workshop and blocking time of relevant stakeholders for the same.
+
+____________________________________________________________________________________________________________________________________________________________________
+Issues:
+R4:
+ - Lot of back and forth on the features that needed to be implemented for:
+	- "Inbox to native promotions page"
+	- "System Maintenance Page and Toast Message"
+ - Still finalizing the details for:
+	- "Inbox to native promotions page"
+	- "System Maintenance Page and Toast Message"
+ - KT sessions for P2P server happened considerably late(Today morning).
+ - Struggled to block time with Nanda to discuss Inception plan alongside R4 delivery.
+Capitaland:
+ - Inception dates keep getting pushed
+
+____________________________________________________________________________________________________________________________________________________________________
+Current directions:
+ - Nanda asked us to prioritize the R4 delivery over Capitaland Inception and suggested that the Inception workshop happen in the week starting 12th November.
+
+Our recommendation:
+- We recommend prioritizing between R4 delivery and Capitaland based on what is more critical to business.
